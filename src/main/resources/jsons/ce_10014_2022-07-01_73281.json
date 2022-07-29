@@ -1,0 +1,2868 @@
+{
+  "checkSum": "b501aa33676aa1acfacc67f828ae6d5ed1c4b17d53bcbe3bd624a14c32560dfa",
+  "ceFileId": 73281,
+  "transfers": [
+    {
+      "entry": {
+        "amount": 9800.27,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:05.144",
+        "originatorReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d343",
+        "platformReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d34362524e8a-ee85-4661-94a8-fc617b6264ba",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79855651646"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996770489065"
+        },
+        "paymentAmount": {
+          "amount": 10000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 20.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 30.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9800.27,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14377.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 245006.82,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:09:55.731",
+        "originatorReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaa",
+        "platformReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaafbefe634-43ef-450a-ba1b-55ff258f3c6d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "paymentAmount": {
+          "amount": 250000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 500.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 750.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245006.82,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359425.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 34300.95,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:10:50.038",
+        "originatorReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e155",
+        "platformReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e1556cf6a44b-ba28-488b-a42f-cc0c9cd080c8",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79309552322"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878726"
+        },
+        "paymentAmount": {
+          "amount": 35000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 70.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 105.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 34300.95,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 50319.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 6860.19,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:03.092",
+        "originatorReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c4081",
+        "platformReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c40816e43a1cc-b95e-472b-a35f-07b6f1e00e3a",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996557605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 6860.19,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:48.793",
+        "originatorReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd",
+        "platformReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd873ec8f0-7aa4-4c45-badf-53cd164baffe",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 14210.40,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:07:20.524",
+        "originatorReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f",
+        "platformReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f3be9c5c0-84cc-4c8d-b520-c1ecefb7b179",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "358449844778"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996502535950"
+        },
+        "paymentAmount": {
+          "amount": 14500.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 29.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 43.50,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 14210.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 20846.65,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 392.01,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:24.517",
+        "originatorReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf25382",
+        "platformReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf253821aa6334a-a36a-4ddc-9f77-4167af6042ec",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79261355690"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996556838584"
+        },
+        "paymentAmount": {
+          "amount": 400.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.80,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 1.20,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 392.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 575.08,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 774.22,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:20:49.202",
+        "originatorReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a",
+        "platformReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a636369af-d65a-4aab-a0b0-6698d0cab744",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79203852028"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996508434543"
+        },
+        "paymentAmount": {
+          "amount": 790.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 1.58,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 2.37,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 774.22,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1135.78,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 245.01,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:23:08.053",
+        "originatorReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e",
+        "platformReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e626ee46d-1a2c-4ec6-98eb-c6c841e5bc2b",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79114567863"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558568455"
+        },
+        "paymentAmount": {
+          "amount": 250.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.50,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.75,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359.43,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 294.01,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:34:43.222",
+        "originatorReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb6",
+        "platformReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb688629e88-7bec-42aa-bbb2-301a92d8cc18",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 1269.14,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:36:22.321",
+        "originatorReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8",
+        "platformReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8fd20a975-3605-41b8-ba3c-15cb43b096c1",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996559108069"
+        },
+        "paymentAmount": {
+          "amount": 1295.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 2.59,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 3.89,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 1269.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1861.82,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 294.01,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:35:50.043",
+        "originatorReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3",
+        "platformReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3dd445c3d-9263-4cd5-9fd4-e1f509611681",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 112.70,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:50:08.721",
+        "originatorReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b",
+        "platformReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b5934efcd-cf4a-4e89-81a0-9499ce454aa5",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79601508588"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878778"
+        },
+        "paymentAmount": {
+          "amount": 115.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.23,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.35,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 112.70,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 165.34,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 78.40,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:38:27.168",
+        "originatorReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a3737",
+        "platformReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a37370cdcb584-d186-43b8-b53c-d53b7e978579",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996707984426"
+        },
+        "paymentAmount": {
+          "amount": 80.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.16,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.24,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 78.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 115.02,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 2930.28,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:41:46.072",
+        "originatorReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a28",
+        "platformReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a2809e8443c-18f1-45e4-bafa-8c7d50ebb71d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79801496812"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996500444544"
+        },
+        "paymentAmount": {
+          "amount": 2990.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 5.98,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 8.97,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 2930.28,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 4298.72,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 35084.98,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:44:24.983",
+        "originatorReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a002",
+        "platformReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a0025d9aa8ea-bdba-46ba-af19-d3d40eb74433",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79586393695"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996705328210"
+        },
+        "paymentAmount": {
+          "amount": 35800.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 71.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 107.40,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 35084.98,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 51469.66,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 9.80,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:56:19.835",
+        "originatorReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d0",
+        "platformReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d00eb16b10-dae7-4f2e-a932-9bc2a3c4642d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79776284089"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996700220816"
+        },
+        "paymentAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.02,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.03,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9.80,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14.38,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 4900.14,
+        "entryType": {
+          "name": "Зачисление суммы перевода",
+          "type": 2
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651136
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:53:03.740",
+        "originatorReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5",
+        "platformReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5f668a292-6cd1-458d-9b28-9f92e7d1cf0c",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79268429424"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996706488745"
+        },
+        "paymentAmount": {
+          "amount": 5000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 15.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 4900.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 7188.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 79.90,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:05.144",
+        "originatorReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d343",
+        "platformReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d34362524e8a-ee85-4661-94a8-fc617b6264ba",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79855651646"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996770489065"
+        },
+        "paymentAmount": {
+          "amount": 10000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 20.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 30.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9800.27,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14377.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 1997.27,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:09:55.731",
+        "originatorReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaa",
+        "platformReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaafbefe634-43ef-450a-ba1b-55ff258f3c6d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "paymentAmount": {
+          "amount": 250000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 500.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 750.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245006.82,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359425.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 279.62,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:10:50.038",
+        "originatorReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e155",
+        "platformReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e1556cf6a44b-ba28-488b-a42f-cc0c9cd080c8",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79309552322"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878726"
+        },
+        "paymentAmount": {
+          "amount": 35000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 70.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 105.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 34300.95,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 50319.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 55.93,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:03.092",
+        "originatorReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c4081",
+        "platformReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c40816e43a1cc-b95e-472b-a35f-07b6f1e00e3a",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996557605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 55.93,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:48.793",
+        "originatorReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd",
+        "platformReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd873ec8f0-7aa4-4c45-badf-53cd164baffe",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 115.84,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:07:20.524",
+        "originatorReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f",
+        "platformReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f3be9c5c0-84cc-4c8d-b520-c1ecefb7b179",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "358449844778"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996502535950"
+        },
+        "paymentAmount": {
+          "amount": 14500.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 29.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 43.50,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 14210.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 20846.65,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 3.20,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:24.517",
+        "originatorReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf25382",
+        "platformReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf253821aa6334a-a36a-4ddc-9f77-4167af6042ec",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79261355690"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996556838584"
+        },
+        "paymentAmount": {
+          "amount": 400.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.80,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 1.20,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 392.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 575.08,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 6.31,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:20:49.202",
+        "originatorReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a",
+        "platformReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a636369af-d65a-4aab-a0b0-6698d0cab744",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79203852028"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996508434543"
+        },
+        "paymentAmount": {
+          "amount": 790.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 1.58,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 2.37,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 774.22,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1135.78,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 2.00,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:23:08.053",
+        "originatorReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e",
+        "platformReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e626ee46d-1a2c-4ec6-98eb-c6c841e5bc2b",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79114567863"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558568455"
+        },
+        "paymentAmount": {
+          "amount": 250.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.50,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.75,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359.43,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 2.40,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:34:43.222",
+        "originatorReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb6",
+        "platformReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb688629e88-7bec-42aa-bbb2-301a92d8cc18",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 10.34,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:36:22.321",
+        "originatorReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8",
+        "platformReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8fd20a975-3605-41b8-ba3c-15cb43b096c1",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996559108069"
+        },
+        "paymentAmount": {
+          "amount": 1295.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 2.59,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 3.89,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 1269.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1861.82,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 2.40,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:35:50.043",
+        "originatorReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3",
+        "platformReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3dd445c3d-9263-4cd5-9fd4-e1f509611681",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.92,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:50:08.721",
+        "originatorReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b",
+        "platformReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b5934efcd-cf4a-4e89-81a0-9499ce454aa5",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79601508588"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878778"
+        },
+        "paymentAmount": {
+          "amount": 115.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.23,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.35,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 112.70,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 165.34,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.64,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:38:27.168",
+        "originatorReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a3737",
+        "platformReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a37370cdcb584-d186-43b8-b53c-d53b7e978579",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996707984426"
+        },
+        "paymentAmount": {
+          "amount": 80.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.16,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.24,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 78.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 115.02,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 23.89,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:41:46.072",
+        "originatorReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a28",
+        "platformReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a2809e8443c-18f1-45e4-bafa-8c7d50ebb71d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79801496812"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996500444544"
+        },
+        "paymentAmount": {
+          "amount": 2990.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 5.98,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 8.97,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 2930.28,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 4298.72,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 286.01,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:44:24.983",
+        "originatorReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a002",
+        "platformReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a0025d9aa8ea-bdba-46ba-af19-d3d40eb74433",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79586393695"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996705328210"
+        },
+        "paymentAmount": {
+          "amount": 35800.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 71.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 107.40,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 35084.98,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 51469.66,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.08,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:56:19.835",
+        "originatorReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d0",
+        "platformReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d00eb16b10-dae7-4f2e-a932-9bc2a3c4642d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79776284089"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996700220816"
+        },
+        "paymentAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.02,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.03,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9.80,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14.38,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 39.94,
+        "entryType": {
+          "name": "Доля курсовой наценки участника",
+          "type": 4
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651137
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:53:03.740",
+        "originatorReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5",
+        "platformReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5f668a292-6cd1-458d-9b28-9f92e7d1cf0c",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79268429424"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996706488745"
+        },
+        "paymentAmount": {
+          "amount": 5000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 15.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 4900.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 7188.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 43.50,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:07:20.524",
+        "originatorReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f",
+        "platformReferenceNumber": "2b9d23ad-63c4-430a-ab1a-d2dd67936f1f3be9c5c0-84cc-4c8d-b520-c1ecefb7b179",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "358449844778"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996502535950"
+        },
+        "paymentAmount": {
+          "amount": 14500.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 29.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 43.50,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 14210.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 20846.65,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 750.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:09:55.731",
+        "originatorReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaa",
+        "platformReferenceNumber": "b83f2d0b-6a70-4a3f-b4b4-9ec8c7acbdaafbefe634-43ef-450a-ba1b-55ff258f3c6d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "79037976682"
+        },
+        "paymentAmount": {
+          "amount": 250000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 500.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 750.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245006.82,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359425.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 105.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:10:50.038",
+        "originatorReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e155",
+        "platformReferenceNumber": "a06e8f42-df70-4e0e-9da1-ef6dfc02e1556cf6a44b-ba28-488b-a42f-cc0c9cd080c8",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79309552322"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878726"
+        },
+        "paymentAmount": {
+          "amount": 35000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 70.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 105.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 34300.95,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 50319.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 21.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:03.092",
+        "originatorReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c4081",
+        "platformReferenceNumber": "85962e28-fa62-4319-8b02-fee6ec5c40816e43a1cc-b95e-472b-a35f-07b6f1e00e3a",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996557605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 21.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:11:48.793",
+        "originatorReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd",
+        "platformReferenceNumber": "06fb63e5-7890-44d7-a2f8-2d3f6ac6c9dd873ec8f0-7aa4-4c45-badf-53cd164baffe",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79104956707"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558605202"
+        },
+        "paymentAmount": {
+          "amount": 7000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 14.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 21.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 6860.19,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 10063.90,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.90,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:35:50.043",
+        "originatorReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3",
+        "platformReferenceNumber": "cc781ebf-ffb9-48ac-bf22-bc787b2f9af3dd445c3d-9263-4cd5-9fd4-e1f509611681",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 30.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:05.144",
+        "originatorReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d343",
+        "platformReferenceNumber": "44710c1b-8c65-466a-b6c9-31302ff0d34362524e8a-ee85-4661-94a8-fc617b6264ba",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79855651646"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996770489065"
+        },
+        "paymentAmount": {
+          "amount": 10000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 20.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 30.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9800.27,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14377.00,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.90,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:34:43.222",
+        "originatorReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb6",
+        "platformReferenceNumber": "08bd63be-da02-4415-8350-d95ea06ffbb688629e88-7bec-42aa-bbb2-301a92d8cc18",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79180909875"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996552920524"
+        },
+        "paymentAmount": {
+          "amount": 300.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.90,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 294.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 431.31,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 1.20,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:19:24.517",
+        "originatorReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf25382",
+        "platformReferenceNumber": "c5591b51-6b39-491c-b4c5-a8df3bf253821aa6334a-a36a-4ddc-9f77-4167af6042ec",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79261355690"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996556838584"
+        },
+        "paymentAmount": {
+          "amount": 400.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.80,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 1.20,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 392.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 575.08,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 2.37,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:20:49.202",
+        "originatorReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a",
+        "platformReferenceNumber": "db78df5d-aae0-4194-bf0c-47f353060c8a636369af-d65a-4aab-a0b0-6698d0cab744",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79203852028"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996508434543"
+        },
+        "paymentAmount": {
+          "amount": 790.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 1.58,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 2.37,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 774.22,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1135.78,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.75,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:23:08.053",
+        "originatorReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e",
+        "platformReferenceNumber": "79e8e6b4-75da-4751-967c-92c960c7af1e626ee46d-1a2c-4ec6-98eb-c6c841e5bc2b",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79114567863"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996558568455"
+        },
+        "paymentAmount": {
+          "amount": 250.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.50,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.75,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 245.01,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 359.43,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.24,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:38:27.168",
+        "originatorReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a3737",
+        "platformReferenceNumber": "ee294590-b708-4b6b-8471-78a5cb8a37370cdcb584-d186-43b8-b53c-d53b7e978579",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996707984426"
+        },
+        "paymentAmount": {
+          "amount": 80.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.16,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.24,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 78.40,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 115.02,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 3.89,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:36:22.321",
+        "originatorReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8",
+        "platformReferenceNumber": "ea23bbf0-f4e4-48e5-8c3a-1bdbfec01ba8fd20a975-3605-41b8-ba3c-15cb43b096c1",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79887445848"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996559108069"
+        },
+        "paymentAmount": {
+          "amount": 1295.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 2.59,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 3.89,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 1269.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 1861.82,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.03,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:56:19.835",
+        "originatorReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d0",
+        "platformReferenceNumber": "1d20353e-e246-4772-a9cc-c05497dc76d00eb16b10-dae7-4f2e-a932-9bc2a3c4642d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79776284089"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996700220816"
+        },
+        "paymentAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.02,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.03,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 9.80,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 14.38,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 8.97,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:41:46.072",
+        "originatorReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a28",
+        "platformReferenceNumber": "c0493101-3022-4a42-9eb5-71c565db3a2809e8443c-18f1-45e4-bafa-8c7d50ebb71d",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79801496812"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996500444544"
+        },
+        "paymentAmount": {
+          "amount": 2990.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 5.98,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 8.97,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 2930.28,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 4298.72,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 107.40,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:44:24.983",
+        "originatorReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a002",
+        "platformReferenceNumber": "782b7ab3-8edb-4114-b9a7-0f6fcb69a0025d9aa8ea-bdba-46ba-af19-d3d40eb74433",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79586393695"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996705328210"
+        },
+        "paymentAmount": {
+          "amount": 35800.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 71.60,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 107.40,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 35084.98,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 51469.66,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 0.35,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:50:08.721",
+        "originatorReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b",
+        "platformReferenceNumber": "90bb4aaa-40c8-4f9d-92cf-df69158fc36b5934efcd-cf4a-4e89-81a0-9499ce454aa5",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79601508588"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996501878778"
+        },
+        "paymentAmount": {
+          "amount": 115.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 0.23,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 0.35,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 112.70,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 165.34,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    },
+    {
+      "entry": {
+        "amount": 15.00,
+        "entryType": {
+          "name": "Доля комиссии участника",
+          "type": 3
+        },
+        "businessDay": "2022-07-01",
+        "consolidatedEntryId": 651138
+      },
+      "transfer": {
+        "transferDate": "2022-07-01T00:53:03.740",
+        "originatorReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5",
+        "platformReferenceNumber": "ce2b59fe-f73d-48da-913a-32375b94e2d5f668a292-6cd1-458d-9b28-9f92e7d1cf0c",
+        "originator": {
+          "participantId": null,
+          "phoneNumber": "79268429424"
+        },
+        "receiver": {
+          "participantId": null,
+          "phoneNumber": "996706488745"
+        },
+        "paymentAmount": {
+          "amount": 5000.00,
+          "currency": "RUB"
+        },
+        "displayFeeAmount": null,
+        "feeAmount": {
+          "amount": 10.00,
+          "currency": "RUB"
+        },
+        "recieverFeeAmount": {
+          "amount": 15.00,
+          "currency": "RUB"
+        },
+        "settelmentAmount": {
+          "amount": 4900.14,
+          "currency": "RUB"
+        },
+        "receivingAmount": {
+          "amount": 7188.50,
+          "currency": "KGS"
+        },
+        "conversionRate": {
+          "settelmentCurrency": "RUB",
+          "receivingCurrency": "KGS",
+          "baseRate": 1.4670,
+          "transferRate": 1.4377
+        },
+        "externalCheckId": null,
+        "externalConfirmId": null
+      }
+    }
+  ]
+}
