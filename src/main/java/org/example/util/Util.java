@@ -10,9 +10,9 @@ public class Util {
 
     public final static String OPERATION_ID_PATTERN = "SBPIN2_[^)]*\\.";
 
-    public final static String JSONS_PATH = "resource/jsons";
+    public final static String JSONS_PATH = "src/main/resources/jsons";
 
-    public final static String XLS_PATH = "resource/xls/выписка.xls";
+    public final static String XLS_PATH = "src/main/resources/xls/выписка.xls";
 
     public final static String HIBERNATE_CFG_PATH = "/property/hibernate.cfg.xml";
 

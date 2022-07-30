@@ -1,6 +1,6 @@
 package org.example.dao;
 
-import org.example.config.HibernateUtility;
+import org.example.builder.SessionFactoryBuilder;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -16,7 +16,7 @@ public class ModelDao<T>{
     }
 
     public void save(List<T>tList){
-        SessionFactory factory = HibernateUtility.getSessionFactory();
+        SessionFactory factory = SessionFactoryBuilder.getSessionFactory();
         Session session = factory.openSession();
         Transaction transaction = session.beginTransaction();
         tList.forEach(x -> session.save(x));

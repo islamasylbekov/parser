@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.config.HibernateUtility;
+import org.example.builder.SessionFactoryBuilder;
 import org.example.dao.ModelDao;
 import org.example.models.json.JsomModel;
 import org.example.models.xls.XLSModel;
@@ -15,9 +15,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        ModelDao<JsomModel> jsomModelModelDao = new ModelDao<>(HibernateUtility.getSessionFactory());
+        ModelDao<JsomModel> jsomModelModelDao = new ModelDao<>(SessionFactoryBuilder.getSessionFactory());
 
-        ModelDao<XLSModel> xlsModelModelDao = new ModelDao<>(HibernateUtility.getSessionFactory());
+        ModelDao<XLSModel> xlsModelModelDao = new ModelDao<>(SessionFactoryBuilder.getSessionFactory());
 
         List<JsomModel> jsomModels =  GsonParser.INSTANCE.parse(JsonPackageReader.INSTANCE.read(Util.JSONS_PATH));
 
